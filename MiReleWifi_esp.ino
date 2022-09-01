@@ -20,8 +20,8 @@
 #include <ESP8266WiFi.h>
 
 
-const char* ssid = "YOUR SSID";
-const char* password = "YOUR PASSWORD";
+const char* ssid = "NETLIFE-LBUENO";
+const char* password = "BUENO/2020";
 
 // Create an instance of the server
 // specify the port to listen on as an argument
